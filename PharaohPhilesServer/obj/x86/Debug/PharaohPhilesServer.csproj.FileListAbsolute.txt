@@ -1,0 +1,12 @@
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\bin\Debug\PharaohPhilesServer.exe
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\bin\Debug\PharaohPhilesServer.pdb
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\PharaohPhilesServer.frmMain.resources
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\PharaohPhilesServer.Properties.Resources.resources
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\PharaohPhilesServer.exe
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\PharaohPhilesServer.pdb
+C:\Users\MORPHEUS\Documents\Visual Studio 2010\Projects\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\PharaohPhilesServer.TClient.frmTClient.resources
+C:\dev\github-01-28-2018\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\PharaohPhilesServer.exe
+C:\dev\github-01-28-2018\PharaohPhilesServer\PharaohPhilesServer\obj\x86\Debug\PharaohPhilesServer.pdb

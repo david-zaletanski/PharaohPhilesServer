@@ -1,0 +1,6 @@
+﻿PharaohPhiles Server
+--------------------
+
+TODO:
+
+	- PhilesClient:ConnectToClient() method needs to handle new client connection setup.
